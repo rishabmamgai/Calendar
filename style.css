@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+table, tr, th, td {
+    border: 1px solid bisque;
+    color: cyan;
+    text-align: center;
+}
+
+table {
+    margin-left: 22vw;
+    margin-top: 2vw;
+}
+
+th, td {
+    width: 17vh;
+    height: 10vh;
+}
+
+#month {
+    color: cyan;
+    margin-left: 99vh;
+    margin-top: 4vh;
+}
